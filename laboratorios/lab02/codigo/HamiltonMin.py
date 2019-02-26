@@ -1,3 +1,7 @@
+"""
+:Author: Santiago Espinosa(sespinosav), Camilo Restrespo(jrcamilo)
+
+"""
 from GraphAL import *
 from Bfa2_0 import *
 
